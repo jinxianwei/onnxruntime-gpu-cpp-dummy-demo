@@ -1,6 +1,9 @@
 ### onnxruntime gpu cpp dummy demo
 
 winxos 20240123
+验证：windows10 20240624
+平台：cuda12.0，onnxruntime-win-x64-gpu-1.17.1 visual studio
+说明：只能用vs的MSVC进行编程，不能用mingw进行编译，因为onnxruntime没有对mingw的支持，pytorch的libtorch也放弃了mingw的支持
 
 #### this is the simplest way to use onnxruntime gpu in cpp
 
