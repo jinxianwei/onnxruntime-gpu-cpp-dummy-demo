@@ -1,0 +1,2 @@
+用于vs2017的属性表
+已经验证能用的是onnxruntime_cpu; onnxruntime_gpu和opencv440
